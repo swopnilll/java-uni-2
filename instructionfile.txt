@@ -1,62 +1,16 @@
-Add name Virat Kohli; birthday 08-11-1988; phone 000000000; address New Address
-Add name Sachin Tendulkar; birthday 24-04-1973; phone 77778888; address 10-10 Little Master Lane
-Add name MS Dhoni; birthday 07-07-1981; phone 99992222; address 7-7 Captain Cool Street
-Add name Rohit Sharma; birthday 30-04-1987; phone 55554444; address 45-3 Hitman Road
-Add name Jasprit Bumrah; birthday 06-12-1993; phone 33331111; address 25-3 Yorker Lane
-Add name Ravindra Jadeja; birthday 06-12-1988; phone 22226666; address 8-3 Sir Jadeja Circle
-Add name Shikhar Dhawan; birthday 05-12-1985; phone 88889999; address 21-7 Gabbar Marg
-Add name Hardik Pandya; birthday 11-10-1993; phone 44447777; address 33-9 Rockstar Avenue
-Add name Bhuvneshwar Kumar; birthday 05-02-1990; phone 11114444; address 15-5 Swing King Street
-Add name Rishabh Pant; birthday 04-10-1997; phone 99991111; address 77-2 Dynamic Wicket Road
-delete Sachin Tendulkar
-delete MS Dhoni
-delete Virat Kohli
-delete Rohit Sharma
-delete Jasprit Bumrah
-delete Ravindra Jadeja
-delete Shikhar Dhawan
-delete Hardik Pandya
-delete Bhuvneshwar Kumar
-delete Rishabh Pant
-delete KL Rahul
-delete Ajinkya Rahane
-delete Cheteshwar Pujara
-delete Ravichandran Ashwin
-delete Mohammed Shami
-delete Ishant Sharma
-delete Yuzvendra Chahal
-delete Shreyas Iyer
-delete Suryakumar Yadav
-delete Prithvi Shaw
-delete Shardul Thakur
-query name Sachin Tendulkar
-query name MS Dhoni
-query name Virat Kohli
-query name Rohit Sharma
-query name Jasprit Bumrah
-query name Ravindra Jadeja
-query name Shikhar Dhawan
-query name Hardik Pandya
-query name Bhuvneshwar Kumar
-query name Rishabh Pant
-query birthday 24-04-1973
-query birthday 07-07-1981
-query birthday 05-11-1988
-query birthday 30-04-1987
-query birthday 06-12-1993
-query birthday 06-12-1988
-query birthday 05-12-1985
-query birthday 11-10-1993
-query birthday 05-02-1990
-query birthday 04-10-1997
-query phone 77778888
-query phone 99992222
-query phone 66665555
-query phone 55554444
-query phone 33331111
-query phone 22226666
-query phone 88889999
-query phone 44447777
-query phone 11114444
-query phone 99991111
+add name Jo Bloggs; birthday 08-07-1900; phone 88884444; address 9001 Chester Crescent, Chatswood, NSW 2057
+
+add email michael@fanfare.com.au; name Michael Willianm; birthday 01-4-1950;   address 37 Barton Ave, Haberfield, NSW 2045; phone 19876245
+
+add name Linda Evans; birthday 22-02-1996;  phone 135625; email l.evans@gmail.com; address 119 Gibbes St, Rockdale, NSW 2216
+
+add address 64 Lennox St, Rockdale, NSW 2216; name Barbara Wilson; birthday 3-01-1988; phone 0469832165; email b.wilson@fanfare.com.au
+
+delete James Smith; 23-3-1989
+delete John Jones; 18-09-1968
+delete Linda Evans; 22-02-1996
+
+add name Posephine Esmerelda Bloggs; birthday 13-05-1980; phone 98765432
+add name Jo Bloggs; birthday 08-07-1900
+
 save

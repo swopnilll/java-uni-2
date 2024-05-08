@@ -1,0 +1,12 @@
+Person{name='Pratigya Sharma', birthday='27-06-1996', phone='0434042041', address='Sydney'}
+Person{name='Pratigya Sharma', birthday='27-06-1997', phone='0434042041', address='Sydney'}
+Person{name='Pratigya Sharma', birthday='27-06-1998', phone='0434042041', address='Sydney'}
+Person{name='Pratigya Sharma', birthday='27-06-1999', phone='0434042041', address='Sydney'}
+Person{name='Sachin Tendulkar', birthday='24-04-1973', phone='77778888', address='10-10 Little Master Lane'}
+Person{name='Sachin Tendulkar', birthday='24-04-1996', phone='77778888', address='10-10 Little Master Lane'}
+Person{name='Virat Kohli', birthday='08-11-1988', phone='000000000', address='New Address'}
+Person{name='MS Dhoni', birthday='07-07-1981', phone='99992222', address='7-7 Captain Cool Street'}
+Person{name='Pratigya Sharma', birthday='27-06-1996', phone='0434042041', address='Sydney'}
+Person{name='Pratigya Sharma', birthday='27-06-1997', phone='0434042041', address='Sydney'}
+Person{name='Pratigya Sharma', birthday='27-06-1998', phone='0434042041', address='Sydney'}
+Person{name='Pratigya Sharma', birthday='27-06-1999', phone='0434042041', address='Sydney'}
